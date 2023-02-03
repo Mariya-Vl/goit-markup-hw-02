@@ -289,6 +289,7 @@ p {
   cursor: pointer;
   padding: 12px 24px;
 }
+
 .portfolio-btn:hover,
 .portfolio-btn:focus {
   background-color: var(--pressed-state-color);
