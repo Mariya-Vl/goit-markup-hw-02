@@ -81,7 +81,6 @@ img {
 }
 
 .header-container {
-  
   display: flex;
   justify-content: space-between;
 }
@@ -101,6 +100,7 @@ img {
   letter-spacing: 0.03em;
   margin-right: 76px;
 }
+
 .logo-accent {
   color: var(--primary-brand-color);
 }
@@ -215,6 +215,7 @@ img {
 /* -----------------FEATURE SECTION----------------- */
 .feature-section {
   padding-top: 120px;
+  padding-bottom: 60px;
 }
 
 .feature-list {
@@ -228,7 +229,7 @@ img {
 
 /* -----------------WHAT WE ARE DOING SECTION----------------- */
 .product-section {
-  padding: 120px 0;
+  padding: 60px 0 120px 0;
 }
 
 .product-section-list {
@@ -238,7 +239,6 @@ img {
 
 /* -----------------TEAM SECTION----------------- */
 .team-section {
-  max-width: 100%;
   background-color: var(--light-color);
   padding: 120px 0;
 }
